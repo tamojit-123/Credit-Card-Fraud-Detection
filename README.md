@@ -10,6 +10,6 @@
 
 ### Deliverable 
 
-[Credit Card Fraud detectection](https://drive.google.com/file/d/0B4qlWMSWmQQoMGgtMEk4UWprYjRSTDhsS3dfX3BTRUJZbGNz/view)
+[Credit Card Fraud detectection](https://iobriefs.netlify.app/credit-card-fraud-detection)
 
 Support 🙏
