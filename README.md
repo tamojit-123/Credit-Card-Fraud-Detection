@@ -12,4 +12,6 @@
 
 [Credit Card Fraud detectection](https://iobriefs.netlify.app/credit-card-fraud-detection)
 
+[Reaserch Gate Paper](https://www.researchgate.net/publication/337591236_Credit_Card_Fraud_Detection_Using_Machine_Learning_With_Python)
+
 Support 🙏
